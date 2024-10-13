@@ -29,8 +29,8 @@ A base de dados utilizada para este projeto foi obtida através da plataforma [B
 ### 1. Motivos para Adoção de Software Livre
 Análise que examina os motivos citados pelos governos para adoção de software livre, destacando fatores como redução de custos, soberania tecnológica e segurança. A análise foi realizada utilizando a distribuição percentual dos motivos.
 
-### 2. Distribuição Regional de Políticas de Software Livre
-Análise da distribuição regional das políticas de software livre, comparando regiões globais e mostrando a proporção de políticas implementadas em cada uma.
+### 2. Distribuição Regional de Políticas de Software Livre ao longo dos anos
+Análise da distribuição regional das políticas de software livre ao longo dos anos, comparando regiões globais e mostrando a proporção de políticas implementadas em cada uma.
 
 ### 3. Tipos de Ações Governamentais
 Análise dos tipos de ações governamentais, como aquisição obrigatória, treinamento e cooperação público-privada, visualizados em termos percentuais.
